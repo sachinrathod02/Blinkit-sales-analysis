@@ -25,6 +25,24 @@ This repository contains a Power BI Dashboard designed to analyze the sales perf
 - Validate metrics and test functionality.
 - Publish the dashboard and gather feedback for iteration.
 
+# project insights 
+-Total sales across all outlets reached $1.20M, with 9K items sold.
+-Average sales per outlet stand at $141, with a consistent customer rating of 4 stars.
+-Regular fat items contributed significantly more to sales ($776.32K) compared to low-fat items ($425.3K).
+-Tier 3 locations generated the highest sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
+-Medium-sized outlets dominated sales ($507.90K), surpassing small and high-sized outlets.
+-Fruits, snacks, and household items were the top-selling product categories, each contributing ~$180K.
+-Supermarket Type 1 outlets led sales ($787.55K) compared to other outlet types.
+-The highest yearly sales peak occurred in 2018, showing a significant growth trend.
+-Item visibility and product categorization play key roles in driving sales performance.
+-Location tier and outlet size heavily influence sales distribution and growth opportunities.
+
+
+
+
+
+
+
 
 
 
