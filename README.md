@@ -14,8 +14,8 @@ This repository contains a Power BI Dashboard designed to analyze the sales perf
 - How does each Outlet Type perform (e.g., Grocery vs. Supermarket)?
 - What is the Item Visibility Score?
 
-- # Process
--- Data Collection:
+- ## Process
+ Data Collection:
 -Gather sales, outlet, and product-related data from Blinkit’s operational systems or databases.
 -Ensure data includes relevant fields such as sales figures, outlet details (size, location), item categories, ratings, and time periods.
 
